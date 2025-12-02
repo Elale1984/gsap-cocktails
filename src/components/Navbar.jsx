@@ -30,7 +30,7 @@ const Navbar = () => {
       <div className="">
         <a href="#home" className="flex items-center gap-2">
           <img src="/images/logo.png" alt="logo" />
-          <p>Social Gathering</p>
+          <p>Social Elixirs</p>
         </a>
 
         <ul>
